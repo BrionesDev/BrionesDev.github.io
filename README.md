@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/BrionesDev/BrionesDev.github.io](https://github.com/BrionesDev/BrionesDev.github.io)
+- Live Site URL: [https://brionesdev.github.io/](https://brionesdev.github.io/)
 
 ## My process
 
@@ -34,23 +34,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+As a first challenge, I was able to improve my layout skills remembering some useful tools like **Flexbox** and **Grid**. 📐
+I also used **var()** in CSS which is really powerful for big projects and have a good way to customize your site easily. 🔥
+I finally kept in mind to had **favicon** in **<head>** tag, it should be always set in our projects. ⭐
 
 ## Author
 
