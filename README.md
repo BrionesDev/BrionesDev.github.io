@@ -34,9 +34,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-As a first challenge, I was able to improve my layout skills remembering some useful tools like **Flexbox** and **Grid**. 📐
-I also used **var()** in CSS which is really powerful for big projects and have a good way to customize your site easily. 🔥
-I finally kept in mind to had **favicon** in **<head>** tag, it should be always set in our projects. ⭐
+As a first challenge, I was able to improve my layout skills remembering some useful tools like **Flexbox** and **Grid** 📐 \
+I also used **var()** in CSS which is really powerful for big projects and have a good way to customize your site easily 🔥 \
+I finally kept in mind to had **favicon** in **<head>** tag, it should be always set in our projects ⭐ \
 
 ## Author
 
